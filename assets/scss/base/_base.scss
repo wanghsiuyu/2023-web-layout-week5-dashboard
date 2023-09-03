@@ -1,0 +1,14 @@
+a {
+  display: block;
+  transition: all 0.2s ease-out;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}

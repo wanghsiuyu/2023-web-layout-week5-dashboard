@@ -1,0 +1,10 @@
+.side-nav-item {
+  border-left: 4px solid transparent;
+  &:hover {
+    color: $green;
+  }
+  &-active {
+    color: $green;
+    border-left: 4px solid $green;
+  }
+}
